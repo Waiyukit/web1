@@ -125,3 +125,11 @@
 	margin:23px 0 0 5px;
 	float:left;
 }
+
+.ping{
+	width: 1000px;margin:0 auto;
+
+}
+.ping table{
+	float:left;
+}
